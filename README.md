@@ -63,3 +63,12 @@ AUDRON employs a **multi-branch hybrid architecture** with feature-level fusion 
   - Four-branch multi-modal architecture
   - Feature-level fusion via concatenation
 
+---
+## 🧠 Applications
+
+- Airspace surveillance
+- Security and defense monitoring
+- Detection of unauthorized drones
+- Smart city and autonomous sensing systems
+
+---
