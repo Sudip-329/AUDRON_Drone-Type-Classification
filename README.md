@@ -46,3 +46,20 @@ AUDRON employs a **multi-branch hybrid architecture** with feature-level fusion 
 
 ---
 
+## 🧪 Methodology
+
+- **Acoustic Data**
+  - Real drone audio from DroneAudioDataset
+  - Environmental noise from ESC-50, Speech Commands, and silence clips
+  - Synthetic drone audio generation for quadcopter, hexacopter, octocopter, and racing drones
+
+- **Feature Extraction (Parallel Branches)**
+  - MFCCs processed using a 1D CNN
+  - STFT spectrograms processed using a 2D CNN
+  - Temporal modeling using BiLSTM with attention
+  - Autoencoder-based latent audio representations
+
+- **Architecture & Fusion**
+  - Four-branch multi-modal architecture
+  - Feature-level fusion via concatenation
+
