@@ -72,3 +72,15 @@ AUDRON employs a **multi-branch hybrid architecture** with feature-level fusion 
 - Smart city and autonomous sensing systems
 
 ---
+
+## 📜 Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@article{chatterjee2025audron,
+  title={AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition},
+  author={Chatterjee, Rajdeep and Chakrabarty, Sudip and Acharjee, Trishaani and Mishra, Deepanjali},
+  journal={arXiv preprint arXiv:2512.20407},
+  year={2025}
+}
